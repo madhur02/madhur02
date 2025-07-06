@@ -7,11 +7,11 @@
 📱 Phone: +91-8793124247 \
 🔗 LinkedIn: madhur-jain-a86021105 
 
-### 🚀 About Me
+## 🚀 About Me
 I'm a passionate Data Scientist with 12 years of industry experience, specializing in Data Science using Artificial Intelligence, Machine Learning, NLP, and Computer Vision. Currently working at IBM Software Labs on cutting-edge Generative AI research and development.
 
 
-### Programming & Tools
+## Programming & Tools
 <div class="badge-container">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -44,7 +44,7 @@ I'm a passionate Data Scientist with 12 years of industry experience, specializi
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   </div>
 
-  <h2>Cloud & DevOps</h2>
+  <h3>Cloud & DevOps</h2>
   <div class="badge-container">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
@@ -55,24 +55,27 @@ I'm a passionate Data Scientist with 12 years of industry experience, specializi
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   </div>
   
-### 📚 Education
-* 🎓 Master of Technology in Data Analytics
-BITS PILANI University | 2015 - 2017
-* 🎓 Bachelor of Engineering in Computer Science
+## 📚 Education
+🎓 Master of Technology in Data Analytics \
+BITS PILANI University | 2015 - 2017 \
+🎓 Bachelor of Engineering in Computer Science \
 RGPV University, Bhopal | 2008 - 2012
 
-### 📖 Publications
-📄 "Explaining and predicting employees attrition: a machine learning approach"
+## 📖 Publications
+📄 <a href="https://link.springer.com/article/10.1007/s42452-020-2519-4" target="_blank">
+  Explaining and predicting employees attrition: a machine learning approach
+</a>
+\
 Published in Springer Applied Science | March 2020
 
-### 💼 Professional Journey
+## 💼 Professional Journey
 🏢 IBM Software Labs | Senior Data Scientist | May 2024 - Present \
 🏢 Morgan Stanley | Lead Data Scientist | Apr 2021 - Apr 2024 \
 🏢 Wolters Kluwer India | Senior Data Scientist | Jul 2019 - Feb 2021 \
 🏢 Larsen & Toubro Infotech | Data Scientist | Mar 2018 - Jul 2019 \
 🏢 Tata Consultancy Services | IT Analyst | Mar 2013 - Mar 2018
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 I'm always excited to collaborate on innovative AI/ML projects and discuss the latest trends in data science. Feel free to reach out!
 
 **"Turning data into insights, and insights into impact."** ✨
