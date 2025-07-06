@@ -8,7 +8,7 @@
 🔗 LinkedIn: madhur-jain-a86021105 
 
 ### 🚀 About Me
-I'm a passionate Lead Data Scientist with 12 years of industry experience, specializing in Data Science using Artificial Intelligence, Machine Learning, NLP, and Computer Vision. Currently working at IBM Software Labs on cutting-edge Generative AI research and development.
+I'm a passionate Data Scientist with 12 years of industry experience, specializing in Data Science using Artificial Intelligence, Machine Learning, NLP, and Computer Vision. Currently working at IBM Software Labs on cutting-edge Generative AI research and development.
 
 
 ### Programming & Tools
